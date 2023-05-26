@@ -37,7 +37,7 @@
             <a href="shop.php">
                     <i class=" fa-solid fa-basket-shopping"></i>
             </a>
-            <a href="account/login_form.php">
+            <a href="#">
                     <i class=" fa-solid fa-user"></i>
             </a>
         </nav>
